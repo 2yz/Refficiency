@@ -1,0 +1,9 @@
+Package: Refficiency
+Title: Refficiency
+Version: 0.0.0.9000
+Authors@R: person("Yizhe", "Yuan", email = "yuanyizhe@gmail.com", role = c("aut", "cre"))
+Description: Refficiency
+Depends: R (>= 3.2.0), igraph, Rcpp
+License: MIT
+Encoding: UTF-8
+LazyData: true
